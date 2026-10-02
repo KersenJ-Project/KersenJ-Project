@@ -1,10 +1,10 @@
-# Hi, I'm Kersen 👋
+# Hi, I'm Kersen
 
 💻 Computer Science Student
-🚀 Interested in Data Analysis & Full Stack Development
+Interested in Data Analysis & Full Stack Development
 🇨🇦 Québec, Canada
 
-## 🚀 About Me
+## About Me
 
 * 🎓 Currently studying Computer Science at Cégep Marie-Victorin
 * 💻 Interested in working with Data
@@ -33,17 +33,19 @@
 
 ## 📌 Projects
 
-### 🏗️ AND Construction
+### AND Construction
 
 A bilingual website developed for a construction company.
 
 **Tech:** React, Node.js, Tailwind CSS, i18n, Vercel
+[ANDConstruction](https://www.andconstruction.ca/)
 
-### 🧽 EsthetiquePlus
+### EsthetiquePlus.INC
 
 A multilingual website developed for an automotive detailing company.
 
 **Tech:** React, Node.js, Tailwind CSS, i18n, Vercel
+[EsthetiquePlus.INC](https://esthetiqueplusinc.vercel.app/)
 
 ## 📈 Currently Learning
 
