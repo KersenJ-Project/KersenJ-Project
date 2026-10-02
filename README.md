@@ -38,14 +38,14 @@ Interested in Data Analysis & Full Stack Development
 A bilingual website developed for a construction company.
 
 **Tech:** React, Node.js, Tailwind CSS, i18n, Vercel
-[ANDConstruction](https://www.andconstruction.ca/)
+* [ANDConstruction](https://www.andconstruction.ca/)
 
 ### EsthetiquePlus.INC
 
 A multilingual website developed for an automotive detailing company.
 
 **Tech:** React, Node.js, Tailwind CSS, i18n, Vercel
-[EsthetiquePlus.INC](https://esthetiqueplusinc.vercel.app/)
+* [EsthetiquePlus.INC](https://esthetiqueplusinc.vercel.app/)
 
 ## 📈 Currently Learning
 
