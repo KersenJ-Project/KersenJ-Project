@@ -55,9 +55,7 @@ A multilingual website developed for an automotive detailing company.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KersenJ-Project\&show_icons=true\&hide_border=true\&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KersenJ-Project\&hide_border=true\&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=KersenJ-Project\&hide_border=true)
 
 ## 📫 Contact
 
