@@ -5,6 +5,7 @@
 
 **Computer Science Student · Québec, QC 🇨🇦**
 
+
 Building bilingual websites, full-stack web apps, and software applications while growing in data analysis.
 
 <br>
