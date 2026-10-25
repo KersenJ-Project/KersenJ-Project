@@ -17,7 +17,7 @@ Building bilingual websites, full-stack web apps, and software applications whil
  
 ![Status](https://img.shields.io/badge/CÉGEP_MARIE--VICTORIN-COMPUTER_SCIENCE-007FFF?style=flat-square&labelColor=000000)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=KersenJ-Project&theme=transparent&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=transparent&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
