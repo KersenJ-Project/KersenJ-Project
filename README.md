@@ -10,7 +10,7 @@ Building bilingual websites, full-stack web apps, and software applications whil
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyle-kersen-joseph-3abb053a2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-kersen-joseph-3abb053a2/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=007FFF)](mailto:nylekersenjoseph@gmail.com)
 
 <br>
