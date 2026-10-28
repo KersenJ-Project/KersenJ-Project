@@ -88,7 +88,7 @@ Building bilingual websites, full-stack web apps, and software applications whil
 
 ---
 
-### 💻 Featured Projects
+### 💻 Projects
 
 | Project | Stack | Impact |
 |---|---|---|
