@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <div align="center">
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=007FFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kersen+%F0%9F%91%8B;Computer+Science+Student;Data+Analysis+%2B+Full-Stack+Developer;Building+Web+%26+Software+Apps" alt="Typing SVG" />
 
 **Computer Science Student · Québec, QC 🇨🇦**
